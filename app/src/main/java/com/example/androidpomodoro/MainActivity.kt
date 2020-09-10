@@ -10,8 +10,8 @@ import kotlinx.android.synthetic.main.activity_main.*
 import java.util.*
 
 class MainActivity : AppCompatActivity() {
-    private val brakeTime: Int = 3 // 5分
-    private val workTime: Int = 15 // 25分
+    private val brakeTime: Int = 300 // 5分
+    private val workTime: Int = 1500 // 25分
     private var current: Int = workTime
     private var isWorkTime: Boolean = false
     private var isStart: Boolean = true
