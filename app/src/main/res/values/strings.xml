@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">androidPomodoro</string>
+    <string name="work_time">ワークタイム</string>
+    <string name="brake_time">ブレイクタイム</string>
 </resources>
